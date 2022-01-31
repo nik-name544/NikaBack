@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "nikaweb",
+  "private_key_id": "6ee99c657bc0a88bbfc8763760b9585fc993c3aa",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDL2iusrwfB6h3l\ncNszbdTKJKbpQigbYqYMDuRdmQBeGxjfVtRKt1LRZPhyne3hCBFSUyHbIXTu1VIx\nmY/UVpUr/LtvKtPzm9MITgBR/SmL/c+gJiKabOYeh2ByTmIrvh8emyUl/yb7tT95\niwOJA3U5Edu3lW+Bl9dito82RUe4h0d3wkE2XVTPiGHNeAzWvH96z2oGgAIAgot5\n3+HTR/h+oa12st+/Uo+MPYgd7OXUxZj1BQjafcWu6bEq1ewpkBe/2zslFqLZtXc6\nOEB4CEK5H/SeGd9Ryd1Cf4W3E1V+swXXw9oAQ2MBrsGGvWbXRHSrCemoH8/hff+e\nU3I1rEh1AgMBAAECggEAUi0R3Bv24ZnyEVMMWlAVLqPV0URFDL0YuNWsA3sxJb6A\nqU/EZpY+QYEVkobNpSBucyRmCoMTM1A1QR9pVqzMl53bJTY7mQGg8cEX6fVHMVLQ\nxvt4iY4KuhXSsGGeu4l53Amo0QdpfKCVBPcgJrSJJcdoLjqEZ9aBEh8L3lHRVrYh\nriPyaJqmUyhIPIZGWWXv6EAAzYS3agInKNH0R/WGqQUn6yF5Aqf9QCDC1ErWJujF\n8i2MY0aZrEhPd33ryoMk3bwyu3fOTdTCFxVJHXx6fIb9kkctJfrdi+LQFKTLy+Vq\n0XMM9hsDen4X9WlbUPEv7EsbUQU2NG0yzBPj5hZ/JQKBgQDtRQbEk2tez3NLMlM1\nvdcZEL42j4nYkMIBFZ+zmLQ1rb9J5KlMv/7iSWRpzM/RTOnrNttczMjNZGtxJD+k\nqkRfSGJCkRgnU8tdciK4nFue0w91gw9oYVV0Wi/gdO95rcfeFOacSsp3E8M/8gqu\n6UMkpcNWC+OlXUV4oz8X8vyLAwKBgQDb8dAhhCFibG4WTD41uSV/FU9GToKv1Gp9\n5sYa42/agywe54TM7r9N8v4k8bz67qQAWbsaj1l3vqC/uO/1G9Qfe3Hfl0EfcU2g\nnpGKlUzEhlyF9C+6azyNMuusltno9+i3WU18aUyuXSpNe4e3h46/ws/M5/AWdjIK\n4NoJ1XAJJwKBgGP87Mc2YM8JmUqdIJfLMrQrbB1ODAcpqbgPRsfGmFrup2gaZoYj\neuQdjaVQXFuVkBZBfdvzqMN1iBmb7v4TitCkjlQDFSytkUwF5z/pFGswApnA62NP\ncVWhFAABB1I9u7aJFE3U7tGTkHqII5xmTJdLC7BdPkfXsIkQMmyDR43FAoGBAITT\nQdgbzXV8+fapUKBtEYHvwpI4859v7mfeKCEw3OnfcZOwSXjhbdKLPoPdIT2BRLWZ\neu8NRwCTtMxTyUYC6lWg3SIkXAW7DSBE4qwIgfXlFpcm4nP4Mvcqmzz9VNfmbzna\nynqptM9QIC3uvgVN7h1MbuXV5B4MfygmpkZuCVzdAoGBAIOE6M9OiCgYhaVW/fRJ\nfyIl8POUS6mMoRGTxnO5IZ0XsoZSzNzGf4m9RFsVJXzV16XUWms4Pd50lz2CsDTi\nFuCpbN81R//hyfd5WeuRGypUMNMPtCVcFYfB+5CPMJeJCCkTpQQ5cy+TnbYadCtT\neNr5NXF8p2XUJwXvg9A3CwSC\n-----END PRIVATE KEY-----\n",
+  "client_email": "nik-168@nikaweb.iam.gserviceaccount.com",
+  "client_id": "103642438801743539043",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/nik-168%40nikaweb.iam.gserviceaccount.com"
+}
